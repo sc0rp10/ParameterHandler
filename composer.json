@@ -1,5 +1,5 @@
 {
-    "name": "incenteev/composer-parameter-handler",
+    "name": "sc0rp10/composer-parameter-handler",
     "description": "Composer script handling your ignored parameter file",
     "keywords": ["parameters management"],
     "homepage": "https://github.com/Incenteev/ParameterHandler",
